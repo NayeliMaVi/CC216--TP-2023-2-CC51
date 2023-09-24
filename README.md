@@ -1,6 +1,6 @@
 # CC216--TP-2023-2-CC51
 # Objetivo de Trabajo:
--
+- Realizar un análisis exploratorio del data frame creando visualizaciones y obteniendo inferencias utilizando Rstudio.
 # Nombre de los alumnos participantes
 | N° | Estudiante                            | Código      |
 |--- | ------------------------------------ | ----------- |
@@ -12,4 +12,5 @@
 El conjunto de datos [Hotel Booking Demand](https://www.sciencedirect.com/science/article/pii/S2352340918315191) fue obtenido de Kaggle. Este dataset comprende dos subconjuntos que contienen información sobre un Hotel Resort y un Hotel de ciudad, ambos situados en Portugal. Estos datos fueron recolectados el 5 de octubre de 2018 por Ana de Almeida, Nuno Antonio y Luis Nunes. Además, el data frame contiene 119390 filas y 32 columnas.
 # Conclusiones
 
-# Licencia
+# [Licencia](https://github.com/NayeliMaVi/CC216--TP-2023-2-CC51/blob/main/LICENSE)
+
